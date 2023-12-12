@@ -1,0 +1,11 @@
+{
+  "user_id": 0,
+  "group_id": 0,
+
+  "auth_token" : 1,
+  "login": "",
+  "password": "",
+
+  "token" : "",
+  "v": "5.92"
+}
