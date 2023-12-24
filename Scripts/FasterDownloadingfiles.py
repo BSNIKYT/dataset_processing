@@ -13,4 +13,4 @@ try:
     print('Done!')
 except Exception as err:
     print(err)
-    while True:pass
+    input()
